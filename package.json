@@ -1,0 +1,15 @@
+{
+  "name": "tsabal",
+  "version": "0.0.3",
+  "description": "Tsabal Library",
+  "main": "dist/tsabal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tsabal",
+    "engineering"
+  ],
+  "author": "Migsar Navarro<migsar.navarro@gmail.com",
+  "license": "ISC"
+}
